@@ -26,6 +26,18 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kolbeko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kolbeko)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg
+" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikolbeko&style=flat-square&color=blue" alt=""/>
