@@ -18,13 +18,13 @@
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :hammer: I’m learning programming on swift and building iOS applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I am also studying computer science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :closed_book: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kolbeko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kolbeko)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kolbeko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kolbeko)
 
 ---
 
@@ -32,7 +32,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
-  <img src="image/swiftui.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="image/swiftui.png" title="swiftui" alt="swiftui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
